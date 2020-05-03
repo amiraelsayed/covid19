@@ -166,25 +166,25 @@ autoplaySpeed: 800,
   });
 
 /* magnificPopup img view */
-$('.popup-image').magnificPopup({
+/* $('.popup-image').magnificPopup({
 	type: 'image',
 	gallery: {
 	  enabled: true
 	}
-});
+});*/
 
 /* magnificPopup img view */
-$('.img-pop-up').magnificPopup({
+/* $('.img-pop-up').magnificPopup({
 	type: 'image',
 	gallery: {
 	  enabled: true
 	}
-});
+}); */
 
 /* magnificPopup video view */
-$('.popup-video').magnificPopup({
+/* $('.popup-video').magnificPopup({
 	type: 'iframe'
-});
+});  */
 
 
   // scrollIt for smoth scroll
